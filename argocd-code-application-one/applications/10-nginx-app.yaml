@@ -11,7 +11,7 @@ spec:
   project: argo-learnings
   source:
     path: resources/nginxapp
-    repoURL: https://github.com/cbagade/argocd-code-application-one
+    repoURL: https://github.com/devsaru/argocd-code-application-one
     targetRevision: master
   syncPolicy:
     automated:
